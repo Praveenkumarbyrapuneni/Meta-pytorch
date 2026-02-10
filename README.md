@@ -1,3 +1,15 @@
+# PyTorch Contributions (Proposals + RFCs)
+
+**Scope:** Contribution-style proposals focused on memory optimization for transformer training and clearer error messaging.
+
+**What’s included**
+- Memory optimization strategies (checkpointing + recomputation trade-offs)
+- Cost-model concept for activation storage vs recomputation
+- RFC-style documentation: architecture, API proposal, evaluation plan, benchmarks to run
+
+**Notes:** These are design proposals / prototypes intended for upstream discussion and iteration.
+
+
 ![PyTorch Logo](https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png)
 
 --------------------------------------------------------------------------------
